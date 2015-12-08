@@ -1,6 +1,7 @@
 # calendar
 
 * display a classical calendar
+* allow 1 or more months view
 * allow highlight days
 * allow unselectable days
 * allow unique, range, multiple selection
